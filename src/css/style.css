@@ -1,0 +1,136 @@
+.container {
+  font-family: "Arial", sans-serif;
+  height: 100%;
+  width: 100%;
+  position: fixed;
+}
+
+.container__body {
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.container__content {
+  width: 600px;
+  border: 1px solid #d3d2d2;
+  padding: 30px 20px;
+  background-color: #f0f0f0;
+  border-radius: 10px;
+}
+
+.card__list {
+  display: flex;
+  position: relative;
+  list-style-type: none;
+  padding: 0;
+  justify-content: space-around
+}
+
+img {
+  width: 70px;
+}
+
+.widget__item {
+  position: relative;
+  padding: 0 10px;
+  background-repeat: no-repeat;
+  background-size: contain;
+  background-position: center
+}
+
+.widget__item:first-child {
+  padding-left: 0;
+}
+
+.widget__item:last-child {
+  padding-right: 0;
+}
+
+.choice {
+  position: absolute;
+  top: -7px;
+  left: 0px;
+  width: 100px;
+  height: 70px;
+  opacity: 1;
+}
+
+.widget__row {
+  display: flex;
+}
+
+.widget__row button {
+  border: 1px solid gray;
+  padding: 15px 30px;
+  top: 0;
+  font-size: 15px;
+  background-color: rgb(33, 133, 50);
+  color: #f3f3f3;
+  position: relative;
+  transition: all 0.5s ease 0s;
+  margin-left: 10px;
+}
+
+.widget__row button:hover {
+  background-color: rgb(57, 182, 78);
+  color: white;
+  transition: all 0.5s ease 0s;
+}
+
+.widget__form {
+  margin-top: 20px;
+}
+
+.input {
+  border: 1px solid rgb(194, 193, 193);
+  padding: 13px 10px;
+  flex: 1;
+  font-size: 16px;
+}
+
+.input:hover {
+  border: 1px solid black;
+}
+
+input::-webkit-outer-spin-button,
+input::-webkit-inner-spin-button {
+    -webkit-appearance: none;
+    margin: 0;
+}
+
+.text {
+  text-align: center;
+  font-size: 18px;
+}
+
+.message_none {
+  display: none;
+}
+
+.message {
+  margin-top: 10px;
+  background-color: rgba(146, 250, 181, 0.25);
+  border: 1px solid #acaaaa;
+}
+
+.numInValid {
+  color: rgb(63, 63, 63);
+  background-color: #dbdbdb;
+}
+
+.notPaymentSystem {
+  opacity: 0;
+}
+
+.valid {
+  background-color: green;
+  color: white;
+}
+
+.invalid {
+  background-color: red;
+  color: white;
+}

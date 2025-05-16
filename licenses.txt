@@ -1,0 +1,17 @@
+mir_logo.png:
+Авторство: Cvin-ru. Собственная работа, Общественное достояние, https://commons.wikimedia.org/w/index.php?curid=84238693
+
+unionpay_logo.png:
+Авторство: UnionPay. Собственная работа, используя: https://seeklogo.com/vector-logo/299316/unionpay, Общественное достояние, https://commons.wikimedia.org/w/index.php?curid=29202564
+
+visa_logo.png:
+By Visa Inc., Nikon1803, Gameposo, and Tokyoship - Own work using: https://www.visa.com/, Public Domain, https://commons.wikimedia.org/w/index.php?curid=107858569
+
+mastercard_logo.png:
+By Mastercard Incorporated - Own work using: https://brand.mastercard.com/brandcenter/mastercard-brand-mark/downloads.html, Public Domain, https://commons.wikimedia.org/w/index.php?curid=75747799
+
+americanexpress_logo.png:
+By Pentagram Studio - https://www.americanexpress.com/, Public Domain, https://commons.wikimedia.org/w/index.php?curid=68263135
+
+jcb_logo.png:
+Авторство: JCB. http://www.global.jcb/, Общественное достояние, https://commons.wikimedia.org/w/index.php?curid=50919954
