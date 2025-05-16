@@ -1,6 +1,6 @@
 image: Ubuntu2204  # образ для сборки
 
-stack: node 22.14.0  # окружение
+stack: node 22  # окружение
 
 branches:
   only:

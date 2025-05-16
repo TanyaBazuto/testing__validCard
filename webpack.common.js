@@ -49,4 +49,7 @@ module.exports = {
       chunkFilename: "[id].css",
     }),
   ],
+  resolve: {
+    extensions: ['.ts', '.js'],
+  },
 };
