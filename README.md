@@ -1,4 +1,6 @@
-## Домашнее задание к занятию "4.Организация тестирования"
+## Домашнее задание к занятию "4.Организация тестирования"   [![Build status](https://ci.appveyor.com/api/projects/status/07scxu25xthnm38t?svg=true)](https://ci.appveyor.com/project/TanyaBazuto/testing-validcard)
+
+[GitHub Pages](https://tanyabazuto.github.io/testing__validCard/)
 
 Правила сдачи задания:
 
